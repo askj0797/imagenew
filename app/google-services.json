@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839646468847",
+    "project_id": "image-lable-b5bc7",
+    "storage_bucket": "image-lable-b5bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839646468847:android:10b147c55532ff9dbed91a",
+        "android_client_info": {
+          "package_name": "com.example.imagelable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839646468847-eiopv0i7dfnj6ia71m3pg9gi0odvannb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwnlKRa2Zuwl6eAhmur6ZD-7Uk2SBlwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839646468847-eiopv0i7dfnj6ia71m3pg9gi0odvannb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
